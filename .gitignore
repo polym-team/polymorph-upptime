@@ -1,0 +1,3 @@
+node_modules
+.DS_Store
+site/status-page/__sapper__

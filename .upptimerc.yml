@@ -1,0 +1,66 @@
+owner: polym-team
+repo: polymorph-upptime
+
+sites:
+  - name: Official Website
+    url: https://polymorph.co.kr
+  - name: Official Website (www)
+    url: https://www.polymorph.co.kr
+  - name: OAuth Server
+    url: https://oauth.polymorph.co.kr
+  - name: Jibsayo
+    url: https://jibsayo.polymorph.co.kr
+  - name: Autto
+    url: https://autto.polymorph.co.kr
+  - name: Rootbeer Employee Mall
+    url: https://rootbeer-employee-mall.polymorph.co.kr
+  - name: Bookmark Share
+    url: https://bookmark-share.polymorph.co.kr
+  - name: Okra
+    url: https://okra.polymorph.co.kr
+  - name: Collab
+    url: https://collab.polymorph.co.kr
+  - name: ArgoCD
+    url: https://argocd.polymorph.co.kr
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 401
+  - name: Verdaccio (npm)
+    url: https://npm.polymorph.co.kr
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 401
+
+status-website:
+  baseUrl: /polymorph-upptime
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Polymorph Status
+  introTitle: "**Polymorph** 서비스 상태"
+  introMessage: |
+    이 페이지는 GitHub Actions로 5분마다 각 서비스를 체크해 자동 갱신됩니다.
+    인프라/Cloudflare Tunnel 장애 시에도 GitHub Pages가 살아있는 한 이 페이지는 동작합니다.
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+assignees:
+  - rootbeer-axz-pc
+
+i18n:
+  activeIncidents: 현재 진행 중인 인시던트
+  allSystemsOperational: 모든 서비스 정상
+  incidents: 인시던트
+  ongoingIncidents: 발생 중
+  pastIncidents: 과거 인시던트
+  resolvedIncidents: 해결됨
+  status: 상태
+  uptime: 가동률
+  responseTime: 응답시간
+  uptimeDay: 24시간
+  uptimeWeek: 7일
+  uptimeMonth: 30일
+  uptimeYear: 1년
