@@ -1,7 +1,7 @@
 url: https://bookmark-share.polymorph.co.kr
-status: up
-code: 200
-responseTime: 793
-lastUpdated: 2026-07-10T23:59:08.606Z
+status: down
+code: 503
+responseTime: 34
+lastUpdated: 2026-07-11T06:33:31.464Z
 startTime: 2026-06-11T02:41:26.683Z
 generator: Upptime <https://github.com/upptime/upptime>
