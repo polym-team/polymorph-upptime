@@ -6,17 +6,18 @@
     "slug": "official-website",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.93%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "98.93%",
     "time": 831,
     "timeDay": 945,
     "timeWeek": 881,
-    "timeMonth": 831,
+    "timeMonth": 857,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2026-06-11": 461
+      "2026-06-11": 461,
+      "2026-07-11": 2
     }
   },
   {
@@ -26,17 +27,18 @@
     "slug": "official-website-www",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.93%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "98.93%",
     "time": 789,
     "timeDay": 806,
     "timeWeek": 851,
-    "timeMonth": 789,
+    "timeMonth": 813,
     "timeYear": 789,
     "dailyMinutesDown": {
-      "2026-06-11": 461
+      "2026-06-11": 461,
+      "2026-07-11": 2
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/oauth.polymorph.co.kr.ico",
     "slug": "o-auth-server",
     "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.93%",
+    "uptime": "98.94%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "98.94%",
     "time": 833,
     "timeDay": 826,
     "timeWeek": 854,
-    "timeMonth": 833,
+    "timeMonth": 859,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2026-06-11": 461
+      "2026-06-11": 461,
+      "2026-07-11": 2
     }
   },
   {
@@ -64,19 +67,20 @@
     "url": "https://jibsayo.polymorph.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/jibsayo.polymorph.co.kr.ico",
     "slug": "jibsayo",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.93%",
-    "time": 771,
-    "timeDay": 917,
-    "timeWeek": 866,
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "98.94%",
+    "time": 749,
+    "timeDay": 481,
+    "timeWeek": 764,
     "timeMonth": 771,
-    "timeYear": 771,
+    "timeYear": 749,
     "dailyMinutesDown": {
-      "2026-06-11": 460
+      "2026-06-11": 460,
+      "2026-07-11": 2
     }
   },
   {
@@ -85,19 +89,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/autto.polymorph.co.kr.ico",
     "slug": "autto",
     "status": "down",
-    "uptime": "97.73%",
-    "uptimeDay": "63.98%",
-    "uptimeWeek": "94.85%",
-    "uptimeMonth": "97.73%",
-    "uptimeYear": "97.73%",
+    "uptime": "97.12%",
+    "uptimeDay": "45.06%",
+    "uptimeWeek": "92.15%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "97.12%",
     "time": 2173,
     "timeDay": 3482,
     "timeWeek": 2571,
-    "timeMonth": 2173,
+    "timeMonth": 2239,
     "timeYear": 2173,
     "dailyMinutesDown": {
       "2026-06-11": 460,
-      "2026-07-11": 122,
+      "2026-07-11": 394,
       "2026-07-10": 397
     }
   },
@@ -106,19 +110,20 @@
     "url": "https://rootbeer-employee-mall.polymorph.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/rootbeer-employee-mall.polymorph.co.kr.ico",
     "slug": "rootbeer-employee-mall",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.93%",
-    "time": 893,
-    "timeDay": 4930,
-    "timeWeek": 1441,
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "98.94%",
+    "time": 867,
+    "timeDay": 2482,
+    "timeWeek": 1265,
     "timeMonth": 893,
-    "timeYear": 893,
+    "timeYear": 867,
     "dailyMinutesDown": {
-      "2026-06-11": 460
+      "2026-06-11": 460,
+      "2026-07-11": 1
     }
   },
   {
@@ -126,19 +131,20 @@
     "url": "https://bookmark-share.polymorph.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/bookmark-share.polymorph.co.kr.ico",
     "slug": "bookmark-share",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.93%",
-    "time": 900,
-    "timeDay": 793,
-    "timeWeek": 853,
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "98.94%",
+    "time": 874,
+    "timeDay": 414,
+    "timeWeek": 750,
     "timeMonth": 900,
-    "timeYear": 900,
+    "timeYear": 874,
     "dailyMinutesDown": {
-      "2026-06-11": 460
+      "2026-06-11": 460,
+      "2026-07-11": 1
     }
   },
   {
@@ -146,19 +152,20 @@
     "url": "https://okra.polymorph.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/okra.polymorph.co.kr.ico",
     "slug": "okra",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.93%",
-    "time": 777,
-    "timeDay": 707,
-    "timeWeek": 847,
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "98.94%",
+    "time": 755,
+    "timeDay": 372,
+    "timeWeek": 746,
     "timeMonth": 777,
-    "timeYear": 777,
+    "timeYear": 755,
     "dailyMinutesDown": {
-      "2026-06-11": 460
+      "2026-06-11": 460,
+      "2026-07-11": 1
     }
   },
   {
@@ -166,19 +173,20 @@
     "url": "https://collab.polymorph.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/collab.polymorph.co.kr.ico",
     "slug": "collab",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.94%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "98.94%",
-    "time": 722,
-    "timeDay": 853,
-    "timeWeek": 752,
-    "timeMonth": 722,
-    "timeYear": 722,
+    "time": 701,
+    "timeDay": 443,
+    "timeWeek": 662,
+    "timeMonth": 721,
+    "timeYear": 701,
     "dailyMinutesDown": {
-      "2026-06-11": 459
+      "2026-06-11": 459,
+      "2026-07-11": 1
     }
   },
   {
@@ -186,19 +194,20 @@
     "url": "https://argocd.polymorph.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/argocd.polymorph.co.kr.ico",
     "slug": "argo-cd",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.94%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "98.94%",
-    "time": 716,
-    "timeDay": 701,
-    "timeWeek": 816,
+    "time": 695,
+    "timeDay": 377,
+    "timeWeek": 721,
     "timeMonth": 716,
-    "timeYear": 716,
+    "timeYear": 695,
     "dailyMinutesDown": {
-      "2026-06-11": 459
+      "2026-06-11": 459,
+      "2026-07-11": 0
     }
   },
   {
@@ -206,19 +215,20 @@
     "url": "https://npm.polymorph.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/npm.polymorph.co.kr.ico",
     "slug": "verdaccio-npm",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.94%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "98.94%",
-    "time": 707,
-    "timeDay": 821,
-    "timeWeek": 793,
+    "time": 687,
+    "timeDay": 430,
+    "timeWeek": 699,
     "timeMonth": 707,
-    "timeYear": 707,
+    "timeYear": 687,
     "dailyMinutesDown": {
-      "2026-06-11": 459
+      "2026-06-11": 459,
+      "2026-07-11": 0
     }
   }
 ]
