@@ -1,7 +1,7 @@
 url: https://npm.polymorph.co.kr
-status: up
-code: 200
-responseTime: 585
-lastUpdated: 2026-08-01T23:57:59.950Z
+status: down
+code: 503
+responseTime: 66
+lastUpdated: 2026-08-02T23:40:33.015Z
 startTime: 2026-06-11T02:42:21.825Z
 generator: Upptime <https://github.com/upptime/upptime>
