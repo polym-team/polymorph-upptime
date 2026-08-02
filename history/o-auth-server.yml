@@ -1,7 +1,7 @@
 url: https://oauth.polymorph.co.kr
-status: up
-code: 200
-responseTime: 592
-lastUpdated: 2026-08-01T23:57:52.712Z
+status: down
+code: 503
+responseTime: 74
+lastUpdated: 2026-08-02T23:38:43.451Z
 startTime: 2026-06-11T02:40:31.905Z
 generator: Upptime <https://github.com/upptime/upptime>
