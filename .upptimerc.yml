@@ -2,24 +2,32 @@ owner: polym-team
 repo: polymorph-upptime
 
 sites:
-  - name: Official Website
-    url: https://polymorph.co.kr
-  - name: Official Website (www)
-    url: https://www.polymorph.co.kr
-  - name: OAuth Server
-    url: https://oauth.polymorph.co.kr
-  - name: Jibsayo
-    url: https://jibsayo.polymorph.co.kr
+  # >>> polymorph-app 앱 (생성됨 — pnpm sync:upptime)
   - name: Autto
     url: https://autto.polymorph.co.kr
-  - name: Rootbeer Employee Mall
-    url: https://rootbeer-employee-mall.polymorph.co.kr
   - name: Bookmark Share
     url: https://bookmark-share.polymorph.co.kr
-  - name: Okra
-    url: https://okra.polymorph.co.kr
   - name: Collab
     url: https://collab.polymorph.co.kr
+  - name: DirectFeedback
+    url: https://directfeedback.polymorph.co.kr
+  - name: Jibsayo
+    url: https://jibsayo.polymorph.co.kr
+  - name: My Flight History
+    url: https://myflighthistory.polymorph.co.kr
+  - name: OAuth Server
+    url: https://oauth.polymorph.co.kr
+  - name: Official Website
+    url: https://polymorph.co.kr
+  - name: Okra
+    url: https://okra.polymorph.co.kr
+  - name: Rootbeer Employee Mall
+    url: https://rootbeer-employee-mall.polymorph.co.kr
+  - name: Tallo
+    url: https://tallo.polymorph.co.kr
+  # <<< polymorph-app 앱
+  - name: Official Website (www)
+    url: https://www.polymorph.co.kr
   - name: ArgoCD
     url: https://argocd.polymorph.co.kr
     expectedStatusCodes:
