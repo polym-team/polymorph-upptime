@@ -13,8 +13,6 @@ sites:
     url: https://directfeedback.polymorph.co.kr
   - name: Jibsayo
     url: https://jibsayo.polymorph.co.kr
-  - name: My Flight History
-    url: https://myflighthistory.polymorph.co.kr
   - name: OAuth Server
     url: https://oauth.polymorph.co.kr
   - name: Official Website
