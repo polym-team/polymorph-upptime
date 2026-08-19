@@ -1,7 +1,7 @@
 url: https://argocd.polymorph.co.kr
-status: up
-code: 401
-responseTime: 752
-lastUpdated: 2026-08-18T23:22:21.928Z
+status: down
+code: 503
+responseTime: 35
+lastUpdated: 2026-08-19T19:01:24.999Z
 startTime: 2026-06-11T02:42:08.069Z
 generator: Upptime <https://github.com/upptime/upptime>
