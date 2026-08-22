@@ -1,7 +1,7 @@
 url: https://tallo.polymorph.co.kr
-status: up
-code: 200
-responseTime: 1485
-lastUpdated: 2026-08-21T23:24:09.321Z
+status: down
+code: 503
+responseTime: 619
+lastUpdated: 2026-08-22T19:00:49.588Z
 startTime: 2026-08-13T09:29:54.301Z
 generator: Upptime <https://github.com/upptime/upptime>
