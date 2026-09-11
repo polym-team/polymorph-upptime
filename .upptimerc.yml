@@ -21,6 +21,10 @@ sites:
     url: https://polymorph.co.kr
   - name: Okra
     url: https://okra.polymorph.co.kr
+  - name: PolyTalk
+    url: https://polytalk.polymorph.co.kr
+  - name: Rekto
+    url: https://rekto.polymorph.co.kr
   - name: Rootbeer Employee Mall
     url: https://rootbeer-employee-mall.polymorph.co.kr
   - name: Tallo
