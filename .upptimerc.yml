@@ -5,14 +5,8 @@ sites:
   # >>> polymorph-app 앱 (생성됨 — pnpm sync:upptime)
   - name: Autto
     url: https://autto.polymorph.co.kr
-  - name: Bookmark Share
-    url: https://bookmark-share.polymorph.co.kr
-  - name: Collab
-    url: https://collab.polymorph.co.kr
   - name: Design Kit
     url: https://design-kit.polymorph.co.kr
-  - name: DirectFeedback
-    url: https://directfeedback.polymorph.co.kr
   - name: Jibsayo
     url: https://jibsayo.polymorph.co.kr
   - name: Kream Office
@@ -21,8 +15,6 @@ sites:
     url: https://oauth.polymorph.co.kr
   - name: Official Website
     url: https://polymorph.co.kr
-  - name: Okra
-    url: https://okra.polymorph.co.kr
   - name: PolyTalk
     url: https://polytalk.polymorph.co.kr
   - name: Rekto
