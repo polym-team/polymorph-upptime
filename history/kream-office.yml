@@ -1,7 +1,7 @@
 url: https://kream-office.polymorph.co.kr
-status: up
-code: 200
-responseTime: 675
-lastUpdated: 2026-11-24T06:47:45.987Z
+status: down
+code: 429
+responseTime: 104
+lastUpdated: 2026-11-24T20:37:38.863Z
 startTime: 2026-11-17T03:58:56.210Z
 generator: Upptime <https://github.com/upptime/upptime>
