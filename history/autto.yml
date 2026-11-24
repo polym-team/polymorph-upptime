@@ -1,7 +1,7 @@
 url: https://autto.polymorph.co.kr
-status: up
-code: 200
-responseTime: 2083
-lastUpdated: 2026-11-24T06:47:44.029Z
+status: down
+code: 429
+responseTime: 77
+lastUpdated: 2026-11-24T20:36:55.003Z
 startTime: 2026-06-11T02:40:59.104Z
 generator: Upptime <https://github.com/upptime/upptime>
